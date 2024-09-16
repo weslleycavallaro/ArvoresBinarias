@@ -1,0 +1,3 @@
+C:/Users/Weslley/Downloads/ArvoresBinarias/cmake-build-debug/CMakeFiles/ArvoresBinarias.dir
+C:/Users/Weslley/Downloads/ArvoresBinarias/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Weslley/Downloads/ArvoresBinarias/cmake-build-debug/CMakeFiles/rebuild_cache.dir
